@@ -1,8 +1,6 @@
 <div align="center">
 
-# `M` `N` ·
-
-### MARGARITA NALUANGA
+<img src="banner.svg" width="460" alt="MN · margarita.naluanga">
 
 **Compongo soluciones digitales para un mundo *más humano.***
 
@@ -11,10 +9,10 @@
 dev full stack & product builder — Barcelona
 ```
 
-[![Portfolio](https://img.shields.io/badge/portfolio-margaritanaluanga.aliada.cloud-1a1818?style=flat-square&logo=googlechrome&logoColor=ece7e1)](https://margaritanaluanga.aliada.cloud)
-[![HTML5](https://img.shields.io/badge/HTML5-1a1818?style=flat-square&logo=html5&logoColor=ece7e1)](#stack)
-[![CSS3](https://img.shields.io/badge/CSS3-55779f?style=flat-square&logo=css3&logoColor=ece7e1)](#stack)
-[![JavaScript](https://img.shields.io/badge/JavaScript-c9892b?style=flat-square&logo=javascript&logoColor=1a1818)](#stack)
+[![Portfolio](https://img.shields.io/badge/portfolio-margaritanaluanga.aliada.cloud-1a1818?style=flat&logo=googlechrome&logoColor=ece7e1)](https://margaritanaluanga.aliada.cloud)
+[![HTML5](https://img.shields.io/badge/HTML5-c9892b?style=flat&logo=html5&logoColor=1a1818)](#stack)
+[![CSS3](https://img.shields.io/badge/CSS3-55779f?style=flat&logo=css3&logoColor=ece7e1)](#stack)
+[![JavaScript](https://img.shields.io/badge/JavaScript-9a671a?style=flat&logo=javascript&logoColor=ece7e1)](#stack)
 
 </div>
 
